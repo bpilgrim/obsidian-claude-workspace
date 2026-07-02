@@ -1,0 +1,16 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Private files — never commit
+*-private.md
+
+# Claude Code local state
+.claude/projects/
+
+# Claude Code local state (contains machine-specific secrets)
+.claude/settings.local.json
