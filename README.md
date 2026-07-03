@@ -8,7 +8,7 @@ This is the opposite bet. **The folder is the app. The files are the UI. Plain m
 
 It's a template: clone it, open it as an Obsidian vault, point Claude Code at it, and tell the assistant to help you customize it.
 
-![Workspace in Obsidian](docs/img/vault.png) <!-- TODO: screenshot of the vault + graph view -->
+![Workspace in Obsidian](docs/img/vault.png)
 
 ---
 
@@ -45,7 +45,7 @@ Frontmatter turns each plain-text file into a structured record the AI reads and
 ## Quick start
 
 ```bash
-git clone <your-repo-url> my-workspace
+git clone https://github.com/bpilgrim/obsidian-claude-workspace.git my-workspace
 cd my-workspace
 claude            # point Claude Code at the folder
 ```
